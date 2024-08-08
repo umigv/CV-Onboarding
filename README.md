@@ -17,8 +17,7 @@ Projects / Research:
 1. [Classical Computer Vision](./CV_Techniques/cv_project.py)
 2. Machine Learning
 
-Integration Resources
-[Integration](./Integration/integration.md) 
+[Integration Resources](./Integration/integration.md) 
 
 Julia (Optional: for those interested in CV applications of computational programming)
 1. [Using Julia for ARV](./Julia/julia_advanced.md)
