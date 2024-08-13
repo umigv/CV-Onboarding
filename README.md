@@ -11,12 +11,19 @@ Tutorials:
 5. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
 6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
 
+Onboarding Projects:
+1. [Intro to YOLO](./Machine_Learning/YOLO_Intro.md)
+2. [Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
+
+
+[Integration Resources](./Integration/integration.md) 
+
 
 Projects / Research: 
 1. [Classical Computer Vision](./CV_Techniques/cv_project.py)
 2. Machine Learning
 
-[Integration Resources](./Integration/integration.md) 
+
 
 Julia (Optional: for those interested in CV applications of computational programming)
 1. [Introduction to Julia Programming](./Julia/julia_intro.md)
