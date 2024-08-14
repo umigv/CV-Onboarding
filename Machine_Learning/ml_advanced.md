@@ -41,11 +41,13 @@ CNNs are a type of artificial neural network that are designed to work with imag
 - Return the training loss and accuracy: We also return the training loss and accuracy for this iteration to be used for monitoring purposes.
 
 -----------------------------------------------------------------------------------------------------------------------
-These tutorials will take you through the process of **training an image classifier in PyTorch**. Please choose article based or video tutorial depending on which way you feel you learn best.
+These tutorials will take you through the process of **training an image classifier in PyTorch**. Please choose the guided videos or article based depending on which way you feel you learn best.
 
-Guided Videos (Suggested to Better Retain the Information)
+Guided Videos (Easier to Follow with Limited Knowledge Base):
 - [Concept Deep Dive](https://www.youtube.com/watch?v=OIenNRt2bjg)
 - [Step By Step Tutorial](https://youtube.com/playlist?list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&feature=shared)
 
-Article Based
+Or
+
+Article Based:
 - [Deep Learning with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
