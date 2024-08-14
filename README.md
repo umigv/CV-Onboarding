@@ -1,7 +1,7 @@
 # CV-Onboarding
 Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team (2024-25)
 
-Hi everyone! Welcome to the team. Please go through onboarding sections that you have been assigned to get you prepared for the year.
+Hi everyone! Welcome to the team. Please go through onboarding sections that you have been assigned to get you prepared for the year. Please complete [this check in](https://forms.gle/yRPz1u5exbgAoyWV6) at the beginning of each meeting.
 
 Tutorials:
 1. [Background Information](./Introduction/background_info.md)
