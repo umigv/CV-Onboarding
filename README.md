@@ -5,7 +5,7 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 
 
 ## Tutorials:
-1. [Background Information](./Introduction/background_info.md)
+1. EDIT? *Reflections Portion for this year seemed mostly based on MDP so probably should make own*[Background Information](./Introduction/background_info.md)
 2. [Introduction to Computer Science](./Introduction/cs_intro.md)
 3. TODO [Introduction to Computer Vision](./Introduction/cv_intro.md)
 4. [Introduction to Machine Learning](./Machine_Learning/ml_intro.md)
