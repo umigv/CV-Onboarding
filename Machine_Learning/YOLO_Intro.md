@@ -10,4 +10,4 @@ Follow [this Google Colab Notebook](https://colab.research.google.com/drive/1ldf
 Additional YOLO Resources:
 1. Python script to run YOLO model on real videos [here]()
 2. Annotating a dataset from scratch in Roboflow [here]()
-3. Barebones Training Notebook [here](https://colab.research.google.com/drive/1fnNdFck-4ZVvTobmnYd679QCmJ9Nz6JC?usp=sharing)
+3. Simplified YOLOv8 Training Notebook [here](https://colab.research.google.com/drive/1fnNdFck-4ZVvTobmnYd679QCmJ9Nz6JC?usp=sharing)
