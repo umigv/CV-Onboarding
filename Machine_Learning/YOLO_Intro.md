@@ -1,4 +1,4 @@
-For last year's competition, the computer vision subteam focused in on utilizing YOLO (You Only Look Once) algorithms. These are well-established and easy to use convolutional neural networks that accurately perform object detection and now have the ability to create segmentation masks as well (essentially highlight the "object" as a whole with its contours). In this project, you will learn how to train your own YOLO model and train its efficacy.
+For last year's competition, the computer vision subteam focused in on utilizing YOLO (You Only Look Once) algorithms. These are well-established and easy to use convolutional neural networks that accurately perform object detection and now have the ability to create segmentation masks as well (essentially highlight the "object" as a whole with its contours). In this project, you will learn how to train your own YOLO model using a pre-annotated dataset and determine its accuracy.
 
 
 Follow [this Google Colab Notebook](https://colab.research.google.com/drive/1ldf6muZj2Lq2gcwi4KZ-4acTULx_L1k2?usp=sharing) to complete the project
