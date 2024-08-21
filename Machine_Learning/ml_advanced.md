@@ -55,5 +55,5 @@ CNNs are a type of artificial neural network that are designed to work with imag
 - Update parameters: Finally, we use the optimizer to update the model's parameters based on the gradients computed in the previous step. This is called back propagation.
 - Return the training loss and accuracy: We also return the training loss and accuracy for this iteration to be used for monitoring purposes.
 
------------------------------------------------------------------------------------------------------------------------
+
 
