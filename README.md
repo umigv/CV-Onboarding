@@ -5,16 +5,16 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 
 
 ## Tutorials:
-1. EDIT? *Reflections Portion for this year seemed mostly based on MDP so probably should make own*[Background Information](./Introduction/background_info.md)
+1. *Add Reflections*[Background Information](./Introduction/background_info.md)
 2. [Introduction to Computer Science](./Introduction/cs_intro.md)
-3. TODO [Introduction to Computer Vision](./Introduction/cv_intro.md)
+3. [Introduction to Computer Vision](./Introduction/cv_intro.md)
 4. [Introduction to Machine Learning](./Machine_Learning/ml_intro.md)
 5. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
 6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
 
 ## Onboarding Projects:
 1. EDIT[Intro to YOLO](./Machine_Learning/YOLO_Intro.md)
-2. TODO[Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
+SCRAP 2. [Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
 
 ## Find a Project that Fits Your Interests:
 TODO
