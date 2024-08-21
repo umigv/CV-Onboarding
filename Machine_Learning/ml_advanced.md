@@ -4,7 +4,7 @@ After reading through the doucmentation, please choose the guided videos or arti
 
 Guided Video Turorial (May be easier to follow):
 - [Step By Step Tutorial](https://youtube.com/playlist?list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&feature=shared)
-  - If you get confused reference the definitions above, those found in the YOLO training notebook, or the informative portion of the article below.
+  - If you get confused reference the definitions below, those found in the YOLO training notebook, or the informative portion of the article below.
 
 Or
 
