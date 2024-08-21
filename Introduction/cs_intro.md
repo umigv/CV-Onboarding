@@ -8,4 +8,4 @@ These tutorials are intended for those who have no coding experience and/or don'
 
 - [Python Reference](https://docs.python.org/3/tutorial/index.html) - Helpful for basic concepts you forget or didn't learn when they pop up
 ## Git
-- [Git intro](./git_intro.md)
+- [Git intro](./Git_intro.md)
