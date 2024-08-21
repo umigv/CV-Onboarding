@@ -14,7 +14,7 @@ Article Based tutorial:
 ----------------------------------------------------------------------------------------------------------------------
 
 Upon completing the tutorials above, complete this checkpoint:
-- [PyTorch Checkpoint](./PyTorch_CP.md)
+- TODO[PyTorch Checkpoint](./PyTorch_CP.md)
   
 -----------------------------------------------------------------------------------------------------------------------
 
