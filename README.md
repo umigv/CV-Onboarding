@@ -13,9 +13,9 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
 
 ## SCRAP? Onboarding Projects:
-1. YOLO Moved into Intro to ML
+1. **YOLO Moved into Intro to ML
 
-2. [Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
+2. SCRAP?[Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
 
 ## Find a Project that Fits Your Interests:
 TODO
