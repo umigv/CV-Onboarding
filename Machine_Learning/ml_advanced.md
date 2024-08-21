@@ -1,4 +1,4 @@
-In this section, you will complete a tutorial that will allow you to **train an image classifier in PyTorch** and finish with a Pytorch checkpoint. First, read through the documentation below as it will provide a comprehensive overview of how we will apply Machine Learning in PyTorch.
+In this section, you will complete a tutorial to **train an image classifier in PyTorch** and finish with a Pytorch checkpoint. First, read through the documentation below as it will provide a comprehensive overview of how we will apply Machine Learning in PyTorch.
 
 After reading through the doucmentation, please choose the guided videos or article based tutorial depending on which way you feel you learn best.
 
