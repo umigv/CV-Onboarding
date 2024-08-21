@@ -12,10 +12,10 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 5. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
 6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
 
-## Onboarding Projects:
-1. EDIT[Intro to YOLO](./Machine_Learning/YOLO_Intro.md)
+## SCRAP? Onboarding Projects:
+1. YOLO Moved into Intro to ML
 
-SCRAP 2. [Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
+2. [Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
 
 ## Find a Project that Fits Your Interests:
 TODO
