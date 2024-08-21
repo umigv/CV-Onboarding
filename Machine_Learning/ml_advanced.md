@@ -1,6 +1,21 @@
-This documentation provides a comprehensive overview of how we will apply Machine Learning in PyTorch and gives you the chance to build 
-your own image classifier. Please read through it and then follow one of the tutorials to construct your own.
+In this section, you will complete a tutorial that will allow you to **train an image classifier in PyTorch** and finish with a Pytorch checkpoint. First, read through the documentation below as it will provide a comprehensive overview of how we will apply Machine Learning in PyTorch.
 
+After reading through the doucmentation, please choose the guided videos or article based tutorial depending on which way you feel you learn best.
+
+Guided Video Turorial (May be easier to follow):
+- [Step By Step Tutorial](https://youtube.com/playlist?list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&feature=shared)
+  - If you get confused reference the definitions above, those found in the YOLO training notebook, or the informative portion of the article below.
+
+Or
+
+Article Based tutorial:
+- [Deep Learning with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+----------------------------------------------------------------------------------------------------------------------
+
+Upon completing the tutorials above, complete this checkpoint:
+- [PyTorch Checkpoint](./PyTorch_CP.md)
+  
 -----------------------------------------------------------------------------------------------------------------------
 
 **CUDA:** PyTorch makes it easy to compute operations using the GPU. This helps with speed, as GPUs are designed to perform 
@@ -41,13 +56,4 @@ CNNs are a type of artificial neural network that are designed to work with imag
 - Return the training loss and accuracy: We also return the training loss and accuracy for this iteration to be used for monitoring purposes.
 
 -----------------------------------------------------------------------------------------------------------------------
-These tutorials will take you through the process of **training an image classifier in PyTorch**. Please choose the guided videos or article based depending on which way you feel you learn best.
 
-Guided Video Turorial (May be easier to follow):
-- [Step By Step Tutorial](https://youtube.com/playlist?list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&feature=shared)
-  - If you get confused reference the definitions above, those found in the YOLO training notebook, or the informative portion of the article below.
-
-Or
-
-Article Based tutorial:
-- [Deep Learning with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
