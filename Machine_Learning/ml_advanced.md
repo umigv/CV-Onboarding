@@ -43,11 +43,11 @@ CNNs are a type of artificial neural network that are designed to work with imag
 -----------------------------------------------------------------------------------------------------------------------
 These tutorials will take you through the process of **training an image classifier in PyTorch**. Please choose the guided videos or article based depending on which way you feel you learn best.
 
-Guided Videos (Easier to Follow with Limited Knowledge Base):
-- [Concept Deep Dive](https://www.youtube.com/watch?v=OIenNRt2bjg)
+Guided Video Turorial (Easier to Follow with Limited Knowledge Base):
 - [Step By Step Tutorial](https://youtube.com/playlist?list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&feature=shared)
+  - If you get confused reference the definitions above, those found in the YOLO training notebook, or the informative portion of the article below.
 
 Or
 
-Article Based:
+Article Based tutorial:
 - [Deep Learning with Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
