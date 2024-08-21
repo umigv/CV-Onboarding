@@ -14,6 +14,7 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 
 ## Onboarding Projects:
 1. EDIT[Intro to YOLO](./Machine_Learning/YOLO_Intro.md)
+
 SCRAP 2. [Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
 
 ## Find a Project that Fits Your Interests:
