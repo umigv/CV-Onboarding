@@ -8,3 +8,7 @@ As you're reading this, please start to think about ideas you have for changes a
 
 - Get added to the UMARV Google Drive
 - Get added to the Drop Box
+
+
+# Reflection on Last Year
+Most of ARV's issues in the past have had to deal with integration between teams. Each team has historically been good at creating awesome solutions on their own but we have never gotten them to work well together. This is why we are going to need a lot of hands working on the integration of our systems and aleviate some of that stress off of the navigation team. On our team specifically we have had issues with not being well rounded enough in our dataset collection which made our models subject to issues at competition where conditions are different. A specific example from last year is that we were so worried about getting good driveable area detection that we forgot to deal with other situations and obstacles like the ramp on the course and therefore our model didn't work well on it. Those are the two places where we consistently struggle and need to stay focused on those topics so that we can create our best performing robot.
