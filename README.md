@@ -12,11 +12,10 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 5. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
 6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
 
-## SCRAP? Onboarding Projects:
-[Final Project: Facial Recognition](./Final_Project/Facial_Recognition.md)
-
 ## Find a Project that Fits Your Interests:
-TODO
+[Here](https://docs.google.com/document/d/1ef634SJfdRXIakzqJhP0OFhtHrR2Q5_G9onW3h-ZJHI/edit) is a list of projects that we are interested in pursuing as a team. As you move through onboarding it may be a good idea to read through this list to see what you are interested in and focus mostly on the onboarding that relates closely to the project. 
+
+Additionally, we are always open to new projects and ideas so feel free to pitch any project to either Matt or Ryan at any time throughout the year.
 
 ##
 
