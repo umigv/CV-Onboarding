@@ -15,7 +15,7 @@ In this section, you will learn the basics of Git and then create your own branc
 (*Tips for beginners: Make sure your bash terminal is for the repository or else you will not have command line access to the repository, create a new folder on your desktop to then clone the repository into)
 
 1. Clone this repository
-      - Create and navigate into your onbaording folder in VS Code, from the terminal type **git clone url**, the URL will be from selecting the code button and then the https url
+      - Create and navigate into your onbaording folder in VS Code, from the terminal type **git clone url**, the URL will be from selecting the code button and then the https url from the main page
 3. Add your own branch by going to branches on the github page, then selecting new branch. Make it your name.
 4. git pull from your VS Code so that the new branch is recognized
 5. git checkout you_branch_name to get onto your branch
