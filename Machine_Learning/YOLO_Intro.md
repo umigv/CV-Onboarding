@@ -2,8 +2,6 @@ For last year's competition, the computer vision subteam focused in on utilizing
 
 
 Follow [this Google Colab Notebook](https://colab.research.google.com/drive/1ldf6muZj2Lq2gcwi4KZ-4acTULx_L1k2?usp=sharing) to complete the project
-  - Reference the resources below if you get stuck
-    - EDIT[Optimizing your model]()
 
 
 Simple Python script to run YOLO model on real videos [here](./YOLOv8.py)
