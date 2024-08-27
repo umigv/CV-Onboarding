@@ -4,4 +4,4 @@ These videos provide a conceptual introduction to Machine Learning and how we wi
 - [Convolutional Neural Networks](https://www.youtube.com/watch?v=pj9-rr1wDhM)
 
 - [Intro to YOLO](./YOLO_Intro.md)
-- TODO[YOLO Checkpoint](./YOLO_CP.md)
+- [YOLO Checkpoint](./YOLO_CP.md)
