@@ -26,3 +26,7 @@ Julia (Optional: for those interested in CV applications of computational progra
 2. [Using Julia for ARV](./Julia/julia_advanced.md)
 - Let us know if you have any ideas for Julia projects you would like to pursue.
 
+
+
+## Finished Onboarding
+Once you have finished onboarding, navigate to [this link](https://github.com/AwrodHaghiTabrizi/UMARV-CV-ScenePerception) and familiarize yourself with the repository as this is where most of our projects and models will be kept. Make sure to carefully follow any instructions on the readme.
