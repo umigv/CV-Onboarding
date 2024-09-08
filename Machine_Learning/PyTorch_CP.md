@@ -1,5 +1,5 @@
-In this checkpoint, you will completely set up a convolutional neural network using PyTorch. There is both a beginner and advanced option and they differ by offering a different amount of starter code and tips.
+In this checkpoint, you will completely set up a convolutional neural network using PyTorch. There is a beginner and an advanced option, which differ by offering a different amount of starter code and tips. If you are completely new to PyTorch and struggled with the tutorial, I suggest using the beginner tutorial. You can also switch to the beginner and use the code you have so far if you find the advanced option is taking too long.
 
 ## Starter Guide
 
-You should have already cloned this repository so navigate to the Machine Learning folder on your computer and you should find two .ipynb one for begginer and one for advanced. Select which one you would like to use and open it in Google Colab (we will use the GPU resources for faster training). All following information will be found in the notebook.
+You should have already cloned this repository so navigate to the Machine Learning folder on your computer and you should find two .ipynb one for begginer and one for advanced. Select which one you would like to use and open it in Google Colab (we will use the GPU resources for faster training). All following information will be found in the notebook. Once you have finished upload your solution to your branch of the repository. If it doesn't work as intended, we can help you debug your solution.
