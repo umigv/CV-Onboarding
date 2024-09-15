@@ -6,7 +6,7 @@ Follow [this Google Colab Notebook](https://colab.research.google.com/drive/1ldf
 
 Now use this simple Python script to run your YOLO model on real videos [here](./YOLOv8.py)
    
-   - Training videos found [here](https://www.dropbox.com/scl/fo/ilsmrvomdx4h1tn74hw0g/AMsCjRdGOaHDy991yNH1SF8?rlkey=yuisarsyjqv0tj1tfrx263rdf&st=thucvkmj&dl=0)
+   - Testing videos found [here](https://www.dropbox.com/scl/fo/ilsmrvomdx4h1tn74hw0g/AMsCjRdGOaHDy991yNH1SF8?rlkey=yuisarsyjqv0tj1tfrx263rdf&st=thucvkmj&dl=0)
 
 Additional YOLO Resources:
-- Simplified YOLOv8 Training Notebook [here](https://colab.research.google.com/drive/1fnNdFck-4ZVvTobmnYd679QCmJ9Nz6JC?usp=sharing)
+- Simplified YOLOv8 Training Notebook [here](https://colab.research.google.com/drive/1fnNdFck-4ZVvTobmnYd679QCmJ9Nz6JC?usp=sharing) which can be used once you are familiar with the steps of developing a model
