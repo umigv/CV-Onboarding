@@ -1,4 +1,4 @@
-In this checkpoint, you will completely set up a convolutional neural network using PyTorch. There is a beginner and an advanced option, which differ by offering a different amount of starter code and tips. If you are completely new to PyTorch and struggled with the tutorial, I suggest using the beginner tutorial. You can also switch to the beginner and use the code you have so far if you find the advanced option is taking too long.
+In this checkpoint, you will completely set up a convolutional neural network using PyTorch. There is a beginner and an advanced option, which differ by offering a different amount of starter code and tips. If you are completely new to PyTorch and struggled with the tutorial, I suggest using the beginner tutorial. You can also switch to the beginner and use the code you have so far if you find the advanced option is taking too long. (notebooks can be found in the Machine Learning folder, pytorch_beginner.ipynb or pytorch_advanced.ipynb) 
 
 ## Starter Guide
 
