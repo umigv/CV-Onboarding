@@ -3,6 +3,24 @@ In this section, you will learn the basics of Git and then create your own branc
 ## Intro Video:
 [Quick Git Intro Video](https://youtu.be/e9lnsKot_SQ?feature=shared)
 
+## Installing Git
+Follow the steps below to install Git on your system.
+
+### Windows
+1. Download Git from the official website: [git-scm.com](https://git-scm.com/).
+2. Run the installer and follow the prompts.
+3. Ensure you select the option to **Use Git from the Windows Command Prompt**.
+
+### macOS
+1. If you have Homebrew installed, use the following command to install Git: ```bash brew install git```
+
+### Linux
+1. Use the command ```sudo apt-get install git```
+
+### Verify your installation
+```git --version```
+
+
 ## Git Commands:
 [Overview of Basic Commands for Terminal](https://github.com/devaaravmishra/git-commands)
 
