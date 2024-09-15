@@ -1,6 +1,7 @@
 These tutorials are intended for those who have no coding experience and/or don't have a working compiler. After completing or skipping these tutorials please follow the instructions to create your own branch and clone the Git repository.
 
 ## Tutorials
+- [VSCode Download](https://code.visualstudio.com/download) is the IDE that we suggest and can offer the most support with, however, you are welcome to use any other IDE you are comfortable with.
 - [VSCode set up guide](https://code.visualstudio.com/docs/introvideos/basics)
 - [Python in VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Very Basic Python Tutorial](https://youtu.be/kqtD5dpn9C8?feature=shared)
