@@ -47,7 +47,7 @@ CNNs are a type of artificial neural network that are designed to work with imag
 - Max pooling layers: the next layers reduce the spatial dimensions of the feature map by dividing the feature map into a grid and taking the maximum value from each grid. This helps to reduce the computational complexity of the network.
 - Fully connected layers: the output of the previous layers is flattened and fed into a fully connected layer, which acts as a classifier by computing the dot product between the weights and the inputs and then passing the result through an activation function.
 
-**Training Process:**
+**Training Process: The five steps found in most PyTorch forward() functions**
 - Zero the gradients: Before we start the training, we zero the gradients from the previous iteration to ensure that they don't accumulate over time.
 - Pass the data through the model: Next, we pass the input data through the model to get the predictions.
 - Calculate the loss: We then compare the model's predictions with the actual target labels to calculate the loss. The loss is a measure of how well the model is doing and serves as a feedback signal for the model to update its parameters.
