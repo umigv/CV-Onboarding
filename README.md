@@ -1,7 +1,7 @@
 # CV-Onboarding
 Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team (2024-25)
 
-##Announcements:
+## Announcements:
 1) If you skipped the computer science section make sure to still follow the make your own branch instruction inside of [Git Intro](https://github.com/umigv/CV-Onboarding/blob/main/Introduction/Git_intro.md)
 2) We are aware of a current issue with training notebooks for YOLOv8, so the YOLO checkpoint will not work at this time, nor will the official notebooks
 3) We will add you to the dropbox on this Sunday's meeting
