@@ -3,7 +3,7 @@ Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team 
 
 ## Announcements:
 1) If you skipped the computer science section make sure to still follow the make your own branch instruction inside of [Git Intro](https://github.com/umigv/CV-Onboarding/blob/main/Introduction/Git_intro.md)
-2) We are aware of a current issue with training notebooks for YOLOv8, so the YOLO intro project will not work at this time, nor will the official notebooks
+2) IMPORTANT: A bug arose for the YOLO training notebooks in the last week. You *must* use the updated version of the YOLO notebooks and checkpoints in order for your code to work. We are not sure if this fix will become redundant and/or cause additional issues in the future, so please let Ryan or Matt know if you can't get the training stage to work. "TypeError: unhashable type: 'numpy.ndarray'" likely means you are on the old notebooks.
 3) We will add you to the dropbox on this Sunday's meeting
 
 Hi everyone! Welcome to the team. Please go through onboarding sections that you have been assigned to get you prepared for the year. Please complete [this check in](https://forms.gle/yRPz1u5exbgAoyWV6) at the beginning of each meeting.
