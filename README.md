@@ -26,6 +26,7 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 4. YOLO api key unauthorized. This should not happen but it has to some members. If it happens to you let Ryan know and he will manually send you an api key
 5. Make sure you actually INSTALLED python onto your computer
 6. In general make sure you are properly cd'd into the right place with the terminal you are using
+7. *Note:* chatGPT can be helpful for understanding the errors the terminal throws at you
 
 ## Find a Project that Fits Your Interests:
 [Here](https://docs.google.com/document/d/1ef634SJfdRXIakzqJhP0OFhtHrR2Q5_G9onW3h-ZJHI/edit) is a list of projects that we are interested in pursuing as a team. As you move through onboarding it may be a good idea to read through this list to see what you are interested in and focus mostly on the onboarding that relates closely to the project. 
