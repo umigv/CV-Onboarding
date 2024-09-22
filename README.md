@@ -1,6 +1,9 @@
 # CV-Onboarding
 Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team (2024-25)
 
+
+>_<
+
 ## Announcements:
 1) If you skipped the computer science section make sure to still follow the make your own branch instructions inside of [Git Intro](https://github.com/umigv/CV-Onboarding/blob/main/Introduction/Git_intro.md)
 2) **IMPORTANT**: A bug arose for the YOLO training notebooks in the last week. You **MUST** use the updated version (9/22) of the YOLO notebooks in order for your code to work. The updated version is linked to, but if you already copied the Colabs, you will need to do that with the updated version. We are not sure if this fix will become redundant or cause other issues in the future (falls back to an outdated version), so please let Ryan or Matt know if you can't get the training stage to work. "TypeError: unhashable type: 'numpy.ndarray'" likely means you are on the old notebooks.
