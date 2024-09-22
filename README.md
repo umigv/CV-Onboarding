@@ -6,6 +6,7 @@ Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team 
 2) **IMPORTANT**: A bug arose for the YOLO training notebooks in the last week. You **MUST** use the updated version (9/22) of the YOLO notebooks in order for your code to work. The updated version is linked to, but if you already copied the Colabs, you will need to do that with the updated version. We are not sure if this fix will become redundant or cause other issues in the future, so please let Ryan or Matt know if you can't get the training stage to work. "TypeError: unhashable type: 'numpy.ndarray'" likely means you are on the old notebooks.
 3) Make sure you fill out the Google form at the start of each meeting [this check in](https://forms.gle/yRPz1u5exbgAoyWV6)
 4) We will add you to the dropbox on this Sunday's meeting
+5) Common errors section added under tutorials
 
 Hi everyone! Welcome to the team. Please go through onboarding sections that you have been assigned to get you prepared for the year. Please complete [this check in](https://forms.gle/yRPz1u5exbgAoyWV6) at the beginning of each meeting.
 
@@ -17,6 +18,11 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 4. [Introduction to Machine Learning](./Machine_Learning/ml_intro.md)
 5. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
 6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
+
+## Common Errors
+1. This is not a git repo. Make sure you 1) properly cd into the CV onboarding and 2) git init, to initialize the repository on your device
+2. YOLO training  "TypeError: unhashable type: 'numpy.ndarray'", see announcement 2 above
+3. YOLO api key unauthorized. This should not happen but it has to some members. If it happens to you let Ryan know and he will manually send you an api key
 
 ## Find a Project that Fits Your Interests:
 [Here](https://docs.google.com/document/d/1ef634SJfdRXIakzqJhP0OFhtHrR2Q5_G9onW3h-ZJHI/edit) is a list of projects that we are interested in pursuing as a team. As you move through onboarding it may be a good idea to read through this list to see what you are interested in and focus mostly on the onboarding that relates closely to the project. 
