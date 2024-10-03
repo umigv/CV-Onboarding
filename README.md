@@ -45,4 +45,4 @@ Julia (Optional: for those interested in CV applications of computational progra
 
 
 ## Finished Onboarding
-Once you have finished onboarding, navigate to [this link](https://github.com/AwrodHaghiTabrizi/UMARV-CV-ScenePerception) and familiarize yourself with the repository as this is where most of our projects and models will be kept. Make sure to carefully follow any instructions on the readme.
+Once you have finished onboarding, navigate to [this link]([https://github.com/AwrodHaghiTabrizi/UMARV-CV-ScenePerception](https://github.com/umigv/UMARV-CV-ScenePerception)) and familiarize yourself with the repository as this is where most of our projects and models will be kept. Make sure to carefully follow any instructions on the readme.
