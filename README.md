@@ -3,11 +3,14 @@ Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team 
 
 ## Announcements:
 1) If you skipped the computer science section make sure to still follow the make your own branch instructions inside of [Git Intro](https://github.com/umigv/CV-Onboarding/blob/main/Introduction/Git_intro.md)
-2) **IMPORTANT**: A bug arose for the YOLO training notebooks in the last week. You **MUST** use the updated version (9/22) of the YOLO notebooks in order for your code to work. The updated version is linked to, but if you already copied the Colabs, you will need to do that with the updated version. We are not sure if this fix will become redundant or cause other issues in the future (falls back to an outdated version), so please let Ryan or Matt know if you can't get the training stage to work. "TypeError: unhashable type: 'numpy.ndarray'" likely means you are on the old notebooks.
-3) Make sure you fill out the Google form at the start of each meeting [this check in](https://forms.gle/yRPz1u5exbgAoyWV6)
-4) We will add you to the dropbox on this Sunday's meeting
-5) Common errors section added under tutorials
-6) *Note:* if you rush through setting up your python environment and do it improperly, it may cause difficult to debug errors later on and may require totally restarting
+2) Attach your git to your account in the command line ```git config --global user.name "YOUR NAME HERE"
+git config --global user.email "YOUR EMAIL HERE"```
+
+3) **IMPORTANT**: A bug arose for the YOLO training notebooks in the last week. You **MUST** use the updated version (9/22) of the YOLO notebooks in order for your code to work. The updated version is linked to, but if you already copied the Colabs, you will need to do that with the updated version. We are not sure if this fix will become redundant or cause other issues in the future (falls back to an outdated version), so please let Ryan or Matt know if you can't get the training stage to work. "TypeError: unhashable type: 'numpy.ndarray'" likely means you are on the old notebooks.
+4) Make sure you fill out the Google form at the start of each meeting [this check in](https://forms.gle/yRPz1u5exbgAoyWV6)
+5) We will add you to the dropbox on this Sunday's meeting
+6) Common errors section added under tutorials
+7) *Note:* if you rush through setting up your python environment and do it improperly, it may cause difficult to debug errors later on and may require totally restarting
 
 Hi everyone! Welcome to the team. Please go through onboarding sections that you have been assigned to get you prepared for the year. Please complete [this check in](https://forms.gle/yRPz1u5exbgAoyWV6) at the beginning of each meeting.
 
