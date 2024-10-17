@@ -1,6 +1,10 @@
 # CV-Onboarding
 Onboarding resources for University of Michigan Autonomous Robotic Vehicle Team (2024-25)
 
+making changes
+
+
+
 ## Announcements:
 1) If you skipped the computer science section make sure to still follow the make your own branch instructions inside of [Git Intro](https://github.com/umigv/CV-Onboarding/blob/main/Introduction/Git_intro.md)
 2) Attach your git to your account in the command line ```git config --global user.name "YOUR NAME HERE"```
