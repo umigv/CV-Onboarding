@@ -16,12 +16,12 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 
 
 ## Tutorials:
-1. [Background Information](./Introduction/background_info.md)
-2. [Introduction to Computer Science](./Introduction/cs_intro.md)
-3. [Introduction to Computer Vision](./Introduction/cv_intro.md)
-4. [Introduction to Machine Learning](./Machine_Learning/ml_intro.md)
-5. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
-6. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
+1. [Background Information](/Introduction/background_info.md)
+2. [Introduction to Computer Science](/Introduction/cs_intro.md)
+3. [Introduction to Computer Vision](/Introduction/cv_intro.md)
+4. [Introduction to Machine Learning](/Machine_Learning/ml_intro.md)
+5. [Computer Vision Techniques](/CV_Techniques/cv_advanced.md)
+6. [Advanced Machine Learning](/Machine_Learning/ml_advanced.md)
 
 ## Common Errors
 1. Something like this is not a git repo or git unrecognized. Make sure you 1) properly cd into the CV onboarding and 2) git init, to initialize the repository on your device 3) if those don't work make sure you have installed git on your computer
@@ -38,11 +38,11 @@ Additionally, we are always open to new projects and ideas so feel free to pitch
 
 ##
 
-[Integration Resources](./Integration/integration.md) 
+[Integration Resources](/Integration/integration.md) 
 
 Julia (Optional: for those interested in CV applications of computational programming)
-1. [Introduction to Julia Programming](./Julia/julia_intro.md)
-2. [Using Julia for ARV](./Julia/julia_advanced.md)
+1. [Introduction to Julia Programming](/Julia/julia_intro.md)
+2. [Using Julia for ARV](/Julia/julia_advanced.md)
 - Let us know if you have any ideas for Julia projects you would like to pursue.
 
 
