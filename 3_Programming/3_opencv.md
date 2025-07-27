@@ -18,7 +18,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-🎥 Opening a Video
+### 🎥 Opening a Video
 ```python
 cap = cv2.VideoCapture("video.mp4")
 
