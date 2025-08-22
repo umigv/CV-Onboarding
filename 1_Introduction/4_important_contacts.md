@@ -3,7 +3,7 @@
 ## 👩‍💻 Lead
 **Maya Echtinaw**
 
-Email: [abc@gmail.com](mailto:abc@gmail.com)
+Email: [mayaecht@umich.edu](mailto:mayaecht@umich.edu)
 
 GitHub: [mayaechtinaw](github.com/mayaechtinaw)
 
