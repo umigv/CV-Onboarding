@@ -1,5 +1,8 @@
 # 🌀 Perspective Transforms
 
+## Highly Recommended Short Lecture Series on Computer Vision
+[First Principle Computer Vision by Dr.Shree Nayar, T. C. Chang Professor of Computer Science at Columbia Engineering](https://fpcv.cs.columbia.edu/)
+
 ## Introduction
 
 In robotics, the camera often sees the world at an **angle** rather than from directly above.  

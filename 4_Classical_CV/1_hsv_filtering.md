@@ -1,5 +1,8 @@
 # 🎨 HSV Filtering
 
+## Highly Recommended Short Lecture Series on Computer Vision
+[First Principle Computer Vision by Dr.Shree Nayar, T. C. Chang Professor of Computer Science at Columbia Engineering](https://fpcv.cs.columbia.edu/)
+
 ## Introduction
 
 In autonomous robotics, vision systems often need to **detect objects of specific colors** — for example:
