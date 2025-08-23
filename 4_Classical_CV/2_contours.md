@@ -1,8 +1,5 @@
 # ✏️ Drawing Contours
 
-## Highly Recommended Short Lecture Series on Computer Vision
-[First Principle Computer Vision by Dr.Shree Nayar, T. C. Chang Professor of Computer Science at Columbia Engineering](https://fpcv.cs.columbia.edu/)
-
 ## Introduction
 
 In computer vision, **contours** are curves that join all the continuous points along the boundary of an object with the same color or intensity. The mask of the HSV filtering output (refer previous section) is used to find these contours. We can then manipulate these contours to detect and measure objects in images.

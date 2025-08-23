@@ -1,8 +1,5 @@
 # 🖼️ Image Stitching with Homography
 
-## Highly Recommended Short Lecture Series on Computer Vision
-[First Principle Computer Vision by Dr.Shree Nayar, T. C. Chang Professor of Computer Science at Columbia Engineering](https://fpcv.cs.columbia.edu/)
-
 ## Introduction
 
 After finding **feature matches** between two camera images, the next step is to actually **combine them into a single stitched image**.  

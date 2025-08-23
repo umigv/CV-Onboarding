@@ -1,8 +1,5 @@
 # 🔗 Feature Matching
 
-## Highly Recommended Short Lecture Series on Computer Vision
-[First Principle Computer Vision by Dr.Shree Nayar, T. C. Chang Professor of Computer Science at Columbia Engineering](https://fpcv.cs.columbia.edu/)
-
 ## Introduction
 
 Feature matching is the process of finding **keypoints** (distinctive patterns like corners, edges, or blobs) in two images and then matching them together.  
