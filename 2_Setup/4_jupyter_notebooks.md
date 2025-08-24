@@ -20,7 +20,7 @@ Jupyter notebooks are a great way to write and test small pieces of code, especi
 ### Follow this Short Introduction Video
 - Watch this 6-minute video to get started with Jupyter in VS Code:  
   [Jupyter Notebooks in VS Code](https://www.youtube.com/watch?v=suAkMeWJ1yE)
-- You can ignore the parts about Virtual Environments, Pandas, Dataframes, the Debugger, and Data Wrangler as these haven't been introduced in the onboarding yet or aren't relevant to our work!
+- You can **ignore** the parts about Virtual Environments, Pandas, Dataframes, the Debugger, and Data Wrangler as these haven't been introduced in the onboarding yet or aren't relevant to our work!
 ---
 The below sections cover the same steps as in the video, but in text format for reference.
 

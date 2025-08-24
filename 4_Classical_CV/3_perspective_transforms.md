@@ -51,6 +51,10 @@ cv2.destroyAllWindows()
 ```
 
 ## Visual Examples
+**Real example** from our system: the upper segment is the original camera view, and the lower segment is the bird’s-eye view (BEV) after applying a perspective transform.
+
+![alt text](image-10.png)
+
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
@@ -64,5 +68,3 @@ cv2.destroyAllWindows()
 * Requires selecting four corner points in the original image and mapping them to a destination rectangle.
 
 * Very useful in robotics for navigation, lane detection, and accurate geometric measurements.
-
-🔗 [Perspective Transform Example (docs)](https://docs.opencv.org/4.x/d9/dab/tutorial_py_perspective_transform.html)

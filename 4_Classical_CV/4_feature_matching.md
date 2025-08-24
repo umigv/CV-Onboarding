@@ -56,10 +56,10 @@ cv2.destroyAllWindows()
 
 ## Key Takeaways
 
-* Perspective transforms let us change the viewpoint of an image.
+* Feature matching gives us the points in common between two images.
 
-* Commonly used for bird’s-eye views of lanes and rectifying tilted regions.
+* Homography allows us to align one image to another using those points.
 
-* Requires selecting four corner points in the original image and mapping them to a destination rectangle.
+* By warping and blending, we can create a stitched panoramic view.
 
-* Very useful in robotics for navigation, lane detection, and accurate geometric measurements.
+* This technique is essential for UMARV to combine multi-camera input into a single coherent view.

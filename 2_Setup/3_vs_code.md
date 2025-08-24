@@ -34,7 +34,7 @@ To install extensions:
 ### ⚙️ First-Time Setup
 
 1. **Try following this short introduction video**:  
-   [VS Code Intro (7 mins)](https://code.visualstudio.com/docs/python/python-tutorial)
+   [VS Code Intro (7 mins)](https://www.youtube.com/watch?v=B-s71n0dHUk)
 
 2. VS Code should be able to see your Python installation automatically. If not, Pranav can help you set it up.
 ---

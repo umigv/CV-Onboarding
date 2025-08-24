@@ -51,6 +51,21 @@ cv2.circle(img, (100, 100), 30, (0, 255, 0), -1)
 
 `-1` → filled circle
 
+### 📏 Drawing a Line
+
+We use this to connect two points, mark boundaries, or highlight edges.
+```python
+cv2.line(img, (50, 50), (200, 200), (0, 0, 255), 3)
+```
+
+`(50, 50)` → starting point
+
+`(200, 200)` → ending point
+
+`(0, 0, 255)` → color (Red in BGR)
+
+`3` → thickness of the line
+
 ### 🔤 Adding Text
 We use this to annotate images with labels, instructions, or information.
 ```python

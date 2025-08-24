@@ -45,14 +45,9 @@ This section gives you the **basics** of machine learning, explained with exampl
 
 ## 🎯 4. Common ML Tasks in ARV
 
-### **Regression**
-- Predicting a continuous value.
-- **Example**: Predicting the steering angle based on camera & LiDAR data.
-![Regression](image-4.png)
-
-### **Classification**
-- Predicting a category.
-- **Example**: Detecting whether an obstacle is a pedestrian, vehicle, or traffic cone.
+### **Object Detection**
+- Finding and classifying objects in an image.
+- **Example**: Detecting pedestrians, vehicle, and traffic cones in a given frame.
 
 ![Classification](image-5.png)
 
@@ -84,12 +79,17 @@ This section gives you the **basics** of machine learning, explained with exampl
   2. **Loss calculation**: Measure how wrong the predictions were.
   3. **Backward pass**: Calculate how each weight contributed to the error.
   4. **Update**: Adjust weights using an optimizer (e.g., SGD or Adam).
-- **Analogy**:  
-  Think of it like reviewing a driving test:
-  - Forward pass = taking the test
-  - Loss = your score
-  - Backward pass = figuring out which mistakes you made
-  - Update = practicing to avoid those mistakes next time
+- 🚲 **Analogy**: Learning to Ride a Bike
+
+  - *Forward pass* = you try riding the bike down the street.
+
+  - *Loss* = how wobbly or far you fell from balance.
+
+  - *Backward pass* = thinking back on why you lost balance (leaned too much left, pedaled too slowly, etc.).
+
+  - *Update* = adjusting your balance, speed, or pedaling the next time.
+
+- Backpropagation is just like practicing biking: each attempt gives feedback about your mistakes, and with repeated small adjustments, you get steadily better.
 ---
 
 ## 📉 7. Gradient Descent – The Path to Better Models
