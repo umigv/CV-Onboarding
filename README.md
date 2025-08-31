@@ -17,5 +17,13 @@ Completing each section is a three-step process:
 2. **Complete Checkpoint**: After reading, make sure to complete the checkpoint for that section. This is usually a short task covering the main points of the section.
 3. **Fill out the Form**: After completing the checkpoint, help us keep track by filling out this form: [onboarding form](https://forms.gle/). Also check the [Progress folder](/0_Progress/) to see onboarding progress of the team.
 
-## General Schedule
+## General Flow of Onboarding Sessions + Schedule
+
+* Pranav presents an overview of the current week’s section (15-20 mins)
+* 1 hour - 1.5 hours on reading
+* 1 - 1.5 hours on checkpoint
+* Max Total Time = 3 hours 20 mins
+* Total meeting time = 1.5 hours (STM) + 2 hours (GM) = 3.5 hours
+
+
 The onboarding is designed to be completed over the course of **6 weeks**, with **one section per week**. However, this can be adjusted based on your availability and pace. The goal is to ensure you have a solid understanding of the material before moving on to the next section.
