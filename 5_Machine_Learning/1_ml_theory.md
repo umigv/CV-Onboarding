@@ -66,7 +66,9 @@ This section gives you the **basics** of machine learning, explained with exampl
   - **Convolutional Neural Networks (CNNs)** – Image-based tasks like object detection and lane following.
   - **Recurrent Neural Networks (RNNs) / LSTMs** – Predicting future positions based on sequential GPS readings.
 
-  > EXCELLENT video to understand the working of neural networks! [StatQuest's Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+**EXCELLENT** videos to understand the working of neural networks!
+-  [StatQuest's Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+- [How to Make a Neural Network](https://www.youtube.com/watch?v=wieryfWkOl0)
 
   ![NNs](image-7.png)
 
