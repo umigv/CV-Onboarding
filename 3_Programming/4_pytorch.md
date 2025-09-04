@@ -4,7 +4,7 @@ PyTorch is one of the most popular deep learning frameworks. It’s perfect for 
 ---
 
 ## 🧱 Tensors: The Building Blocks of PyTorch  
-Tensors are essntially multi-dimensional arrays, but with GPU acceleration.  
+Tensors are essentially multi-dimensional arrays, and their computation can be accelerated with GPUs.  
 
 They are the fundamental data structure for storing images, labels, and parameters.
 

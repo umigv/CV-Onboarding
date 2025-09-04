@@ -6,12 +6,17 @@ Understanding Python's core building blocks will help you write clear and modula
 
 ## 🟨 Variables
 
-Variables store data that your program can use and modify.
+Variables store data that your program can use and modify. Their 'data type' determines what kind of data they hold. For example:
 
 ```python
-name = "UMARV"
-speed = 45
-is_autonomous = True
+name = "UMARV" # string type
+speed = 45  # integer type
+is_autonomous = True # boolean type
+
+# Check the data type of each variable
+print(type(name))  # <class 'str'>
+print(type(speed))  # <class 'int'>
+print(type(is_autonomous))  # <class 'bool'>
 ```
 
 ## 🧱 Indentation

@@ -20,11 +20,12 @@ When building software for an **autonomous robotic vehicle (ARV)**, OOP helps yo
 ## 🏗️ Classes and Objects
 
 ### ✅ Defining a Class
-A class is like a blueprint for creating objects.  
-Here’s an example where we store the camera frame and occupancy grid in a class. Each part of the following code is explained below:
+A class is like a blueprint for creating objects.  For example, a `Car` class defines what a car is and what it can do. It can `drive`, `stop`, and `honk`. From this blueprint, you can create many car objects (let's say `car1`, `car2`, and so on) which share the same structure and behavior. These can be used in your program (which could race `car1` versus `car2`).
+
+Here’s an example where we store the camera frame and occupancy grid in a class called `ComputerVisionSystem`. Each part of the following code is explained below:
 
 ```python
-class PerceptionSystem:
+class ComputerVisionSystem:
     def __init__(self, frame=None, occ_grid=None):
         self.frame = frame          # stores the latest camera frame
         self.occ_grid = occ_grid    # stores the occupancy grid
@@ -42,41 +43,24 @@ class PerceptionSystem:
             print("No occupancy grid available.")
 ```
 
-### 🛠️ Creating an Object
-
-To create an object (an instance of a class), call the class like a function:
-
-```python
-# Create an object of PerceptionSystem
-ps = PerceptionSystem(frame="dummy_frame", occ_grid="dummy_grid")
-
-# Call its methods
-ps.process_frame()      # Output: Processing camera frame...
-ps.update_occ_grid()    # Output: Updating occupancy grid...
-```
-
 ### 🎯 Methods
 
-Methods are just functions inside a class that operate on the object’s data.
+Methods are just functions inside a class that operate on the object’s data. They define the behavior of the object. Here, `process_frame` and `update_occ_grid` are methods of the `ComputerVisionSystem` class:
 
 ```python
 def process_frame(self):
-    print("Processing camera frame...")
-```
-
-Call them using the object:
-
-```python
-ps.process_frame()
+    if self.frame is not None:
+        print("Processing camera frame...")
+    else:
+        print("No frame available.")
 ```
 
 ### 📦 `__init__` Method
 
-This special method runs when you create an object.
-It sets up initial values like frame or occ_grid:
+This special method runs when you create an object. It sets up initial values like frame or occ_grid:
 
 ```python
-class PerceptionSystem:
+class ComputerVisionSystem:
     def __init__(self, frame=None, occ_grid=None):
         self.frame = frame
         self.occ_grid = occ_grid
@@ -88,9 +72,25 @@ class PerceptionSystem:
 It’s how you access attributes and methods inside the class.
 
 ```python
-class PerceptionSystem:
-    def process_frame(self):
+class ComputerVisionSystem:
+    def print_frame(self):
         print(f"Working with {self.frame}")
+```
+
+### 🛠️ Creating an Object
+
+To create an object (an instance of a class), call the class like a function:
+
+```python
+# Create an object of ComputerVisionSystem
+cvs = ComputerVisionSystem(frame=dummy_frame, occ_grid=dummy_grid)
+```
+
+To call its methods, use dot notation:
+```python
+# Call its methods
+cvs.process_frame()      # Output: Processing camera frame...
+cvs.update_occ_grid()    # Output: Updating occupancy grid...
 ```
 
 ### 🔄 Updating Attributes
@@ -98,27 +98,29 @@ class PerceptionSystem:
 You can modify object attributes directly:
 
 ```python
-ps.frame = "new_camera_frame"
+ps.frame = new_camera_frame
 ps.process_frame()  # Now processes the new frame
 ```
 
 ### 🧬 Inheritance
 
 You can create new classes based on existing ones.
-For example, let’s extend `PerceptionSystem` to make a specialized `VisionSystem`:
+For example, let’s use `ComputerVisionSystem` to make a specialized `DrivingSystem`:
 
 ```python
-class VisionSystem(PerceptionSystem):
-    def detect_objects(self):
-        if self.frame:
-            print("Running object detection...")
-        else:
-            print("No frame to detect objects in.")
+class DrivingSystem(ComputerVisionSystem):
+    def path_plan_using_computer_vision(self):
+        self.process_frame()
+        print("Planning path using vision data...")
+    
+    def drive_using_path_plan(self):
+        print("Driving the vehicle...")
 
-vs = VisionSystem(frame="frame_data")
-vs.process_frame()
-vs.detect_objects()
+ds = DrivingSystem(frame="frame_data")
+ds.path_plan_using_computer_vision()
+ds.drive()
 # Output:
 # Processing camera frame...
-# Running object detection...
+# Planning path using vision data...
+# Driving the vehicle...
 ```
