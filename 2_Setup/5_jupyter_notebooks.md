@@ -10,7 +10,7 @@ Jupyter notebooks are a great way to write and test small pieces of code, especi
 ### 📥 Install the Jupyter Extension
 
 1. Open VS Code  
-2. Go to the Extensions view (`Ctrl + Shift + X`)  
+2. Go to the Extensions view (`Ctrl + Shift + X` / `Cmd + Shift + X`)  
 3. Search for `Jupyter` and click **Install**
 
 > 💡 You should already have the Python and Jupyter extensions installed from Step 3
@@ -48,4 +48,17 @@ If your code isn't running:
 - Choose your current Python environment.
 - VS Code might ask you to install the ipykernel package if it can't find it. Click **Install** to set it up.
 
+---
+
+## 📓 Colab Notebooks
+You can also use Google Colab to run Jupyter notebooks in the cloud without any setup. Just upload your notebook file to [colab.research.google.com](https://colab.research.google.com) and run it there.
+
+We'll use Colab for Checkpoint 4 - Classical CV and Checkpoint 5 - Machine Learning, so this section is just to let you know that it exists.
+
+Google Colab provides free access to GPUs, which allows us to run larger models and datasets than on a local machine. However, Colab has some limitations:
+- Sessions can time out after a period of inactivity (usually 30-90 minutes)
+- You have limited disk space and RAM
+- You need to re-upload files each time you start a new session
+- You may need to re-install libraries each time
+- You need to be connected to the internet
 ---

@@ -26,7 +26,7 @@ Open VS Code and install the following extensions:
 - **Jupyter** – Run `.ipynb` notebooks inside VS Code  
 
 To install extensions:
-- Go to the Extensions view (left sidebar or `Ctrl+Shift+X`)
+- Go to the Extensions view (left sidebar or `Ctrl+Shift+X` or `Cmd+Shift+X`)
 - Search for the extension name and click **Install**
 
 ---
@@ -40,20 +40,24 @@ To install extensions:
 ---
 ### Power User Settings
 You can customize VS Code to make it more efficient:
-- **Auto Save**: Go to Settings (`Ctrl + ,`) and search for "Auto Save". Set it to `afterDelay` to save changes automatically.
+- **Auto Save**: Go to Settings (`Ctrl + ,` or `Cmd + ,`) and search for "Auto Save". Set it to `afterDelay` to save changes automatically.
 - **Word Wrap**: Enable word wrap to avoid horizontal scrolling. Go to Settings and search for "Word Wrap", then set it to `on`.
 - **Theme**: Change the color theme by going to `File > Preferences > Color Theme` and selecting one you like.
 
-### Power User Shortcuts
+### ⚡ Power User Shortcuts
+
 Here are some useful keyboard shortcuts to speed up your workflow:
-- **Open Terminal**: `Ctrl + (backtick)` 
-- **Previous Command in Terminal**: `Up Arrow`
-- **Next Command in Terminal**: `Down Arrow`
-- **Clear Terminal**: `Ctrl + L`
-- **Comment/Uncomment Line**: `Ctrl + /`
-- **Move Line Up/Down**: `Alt + Up/Down`
-- **Copy Line Up/Down**: `Shift + Alt + Up/Down`
-- **Select Next Occurrence**: `Ctrl + D`
-- **Go to Definition**: `Ctrl + Click` on a function or variable
-- **New Window**: `Ctrl + Shift + N`
-- **Reveal in Explorer**: `Shift + Alt + R`
+
+| Action                        | Windows Shortcut            | macOS Shortcut            |
+|-------------------------------|-----------------------------|---------------------------|
+| 💻 **Open Terminal**          | `Ctrl + backtick`                 | `Cmd + backtick`                |
+| ⬆️ **Previous Command in Terminal** | `Up Arrow`           | `Up Arrow`                |
+| ⬇️ **Next Command in Terminal**     | `Down Arrow`         | `Down Arrow`              |
+| 🧹 **Clear Terminal**         | `Ctrl + L`                  | `Cmd + K`                 |
+| 💬 **Comment/Uncomment Line** | `Ctrl + /`                  | `Cmd + /`                 |
+| 🔼🔽 **Move Line Up/Down**    | `Alt + Up/Down`             | `Option + Up/Down`        |
+| 📄 **Copy Line Up/Down**      | `Shift + Alt + Up/Down`     | `Shift + Option + Up/Down`|
+| 🎯 **Select Next Occurrence** | `Ctrl + D`                  | `Cmd + D`                 |
+| 🔍 **Go to Definition**       | `Ctrl + Click`              | `Cmd + Click`             |
+| 🆕 **New Window**             | `Ctrl + Shift + N`          | `Cmd + Shift + N`         |
+| 📂 **Reveal in Explorer**     | `Shift + Alt + R`           | `Shift + Option + R`      |
