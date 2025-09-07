@@ -64,22 +64,9 @@ model.predict(source=0, show=True)
 For UMARV, we may want to detect custom obstacles (e.g., different cone colors, lane lines, barrels).
 We can fine-tune YOLO on our own dataset.
 
-```python
-from ultralytics import YOLO
+🔗 [YouTube: How to Train Ultralytics YOLOv8 models on Your Custom Dataset in Google Colab](https://www.youtube.com/watch?v=LNwODJXcvt4)
 
-# Load a pretrained YOLO model
-model = YOLO("yolov8n.pt")
-
-# Train on a custom dataset
-model.train(
-    data="dataset.yaml",   # defines paths to images + classes
-    epochs=50,             # how many training cycles
-    imgsz=640              # image size
-)
-
-```
-
-➡️ After training, YOLO will be specialized for our obstacles.
+➡️ After training, YOLO will be specialized on our data.
 
 ## 📊 Understanding Results
 
@@ -110,3 +97,5 @@ for r in results:
 * Works on images, video, and custom datasets.
 
 * Perfect for real-time robotics tasks.
+
+🔗 [Ultralytics Docs for YOLO](https://docs.ultralytics.com/)
