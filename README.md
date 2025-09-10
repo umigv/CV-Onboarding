@@ -15,7 +15,7 @@ Completing each section is a three-step process:
 1. **Read**: You will be assigned a section to read through. Complete the reading and take notes if required. Some sections may have videos to make it easier to follow along.
 * Note that most sections have code snippets. You do not need to understand it all, but try to correlate it with the reading. The code is **mainly for reference** later on during projects.
 2. **Complete Checkpoint**: After reading, make sure to complete the checkpoint for that section. This is usually a short task covering the main points of the section.
-3. **Fill out the Form**: After completing the checkpoint, help us keep track by filling out this form: [onboarding form](https://forms.gle/). Also check the [Progress folder](/0_Progress/) to see onboarding progress of the team.
+3. **Fill out the Form**: After completing the checkpoint, help us keep track by filling out this form: [onboarding form](https://docs.google.com/forms/d/e/1FAIpQLScLKHD6iLj6_rPay34Q4lJyd0qyVFZIeWBGVdZVt97RklUANw/viewform?usp=sharing&ouid=110200261831708927315). Also check the [Progress folder](/0_Progress/) to see onboarding progress of the team.
 
 ## General Flow of Onboarding Sessions + Schedule
 
