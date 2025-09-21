@@ -89,8 +89,6 @@ while (not (game_board.check()[0])):
 
     # force valid combination when incorrect
     while(not (game_board.board[int(row)][int(col)] == " ")):
-        valid_row = False
-        valid_col = False
         print("Occupied space! Stop.")
 
         # force valid row
