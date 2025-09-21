@@ -15,10 +15,10 @@ class TicTacToe:
         for i in range(0, 3):
             if (self.board[i] == ["X"]*3):
                 # print("horizontal X")
-                return (True, "X")
+                return True
             if (self.board[i] == ["O"]*3):
                 # print ("horizontal O")
-                return (True, "O")
+                return True
         
         # vertical column check
         for c in range(0, 3):
@@ -26,39 +26,39 @@ class TicTacToe:
                 self.board[1][c] == self.board[2][c] and
                 self.board[2][c] == "X"):
                 # print("vertical X")
-                return (True, "X")
+                return True
             if (self.board[0][c] == self.board[1][c] and
                 self.board[1][c] == self.board[2][c] and
                 self.board[2][c] == "O"):
                 # print("vertical O")
-                return (True, "O")
+                return True
         
         # tl-br diagonal check
         if (self.board[0][0] == self.board[1][1] and
             self.board[1][1] == self.board[2][2] and
             self.board[2][2] == "X"):
             # print("tl-br X")
-            return (True, "X")
+            return True
         if (self.board[0][0] == self.board[1][1] and
             self.board[1][1] == self.board[2][2] and
             self.board[2][2] == "O"):
             # print("tr-bl O")
-            return (True, "O")
+            return True
         
         # tr-bl diagonal check
         if (self.board[0][2] == self.board[1][1] and
             self.board[1][1] == self.board[2][0] and
             self.board[2][0] == "X"):
             # print("tr-bl X")
-            return (True, "X")
+            return True
         
         if (self.board[0][2] == self.board[1][1] and
             self.board[1][1] == self.board[2][0] and
             self.board[2][0] == "O"):
             # print("tr-bl O")
-            return (True, "O")
+            return True
         
-        return (False, "n/a")
+        return False
             
 
 game_board = TicTacToe([[" ", " ", " "],
@@ -66,7 +66,7 @@ game_board = TicTacToe([[" ", " ", " "],
                         [" ", " ", " "]])
 
 letter = "O"
-while (not (game_board.check()[0])):
+while (not game_board.check()):
     if (letter == "O"):
         letter = "X"
     elif (letter == "X"):
