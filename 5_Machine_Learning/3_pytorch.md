@@ -6,7 +6,9 @@ All neural networks in PyTorch are built using nn.Module. This builds off of the
 
 The `Linear` layer used below is what we call a fully connected layer. For this example, we can understand it as a matrix of the shape `(input_features, output_features)`. So, it transforms a vector of `input_features` into a vector of `output_features`.
 
-$ o_{(8,1)} = A_{(8,2)}i_{(2,1)} $ 
+```math
+o_{(8,1)} = A_{(8,2)}i_{(2,1)}
+```
 
 ```python
 import torch.nn as nn
