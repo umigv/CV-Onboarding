@@ -4,9 +4,9 @@ class Game:
     self.winner = 0
 
   def printBoard(self):
-    for i in self.board:
-      for j in i:
-        print([j], end="")
+    for row in self.board:
+      for col in row:
+        print([col], end="")
       print("\n")
 
   def move(self, player):
