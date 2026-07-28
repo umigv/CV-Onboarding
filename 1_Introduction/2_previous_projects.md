@@ -1,6 +1,6 @@
-# CV 2024-25 Project Ideas
+# CV Project Ideas
 These are some ideas for the CV team last year. Not all of these were implemented, but they can help you understand what kinds of projects we can work on. 
-## 🟢 Level 1
+## Easier
 
 (Hands-on, easy to start, quick results)
 
@@ -10,7 +10,7 @@ These are some ideas for the CV team last year. Not all of these were implemente
 
 * **Clustering Algorithms** – Clean up segmentation masks with clustering algorithms like DBSCAN.
 
-## 🟡 Level 2
+## Medium
 
 (Requires some ML/CV knowledge, integration, and optimization)
 
@@ -20,7 +20,7 @@ These are some ideas for the CV team last year. Not all of these were implemente
 
 * **Debugger UI** – Build a central dashboard for robot diagnostics and camera feeds.
 
-## 🔴 Level 3
+## Complex
 
 (Research-heavy, high compute demand, or system-level complexity)
 
