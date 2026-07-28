@@ -4,7 +4,7 @@ Welcome to ARV! This document explains the different roles within our subteam, w
 
 ---
 
-## 👩‍💻 Lead
+## Sub-team Lead
 **What they do:**  
 - Act as the "face" of the subteam for members, sponsors, and competition judges.  
 - Set the **technical vision** of the subteam each year.  
@@ -25,9 +25,9 @@ Welcome to ARV! This document explains the different roles within our subteam, w
 
 ---
 
-## 🧑‍🏫 Assistant Lead
+## Assistant Lead
 **What they do:**  
-- Own the **onboarding process** for new members.  
+- Run **onboarding process** to familiarize new members.  
 - Work with the lead to choose **skills to teach**, and design how onboarding is taught.
 - Be the **main point of contact during onboarding** (questions, troubleshooting, discussions).  
 - Actively check in with onboarding groups instead of waiting for questions.  
@@ -42,7 +42,7 @@ Welcome to ARV! This document explains the different roles within our subteam, w
 
 ---
 
-## 🧑‍🔧 Returning Members
+## Returning Members
 **What they do:**  
 - Act as **project leads** for specific projects.  
 - Mentor new members and help them feel welcome.  
@@ -51,6 +51,7 @@ Welcome to ARV! This document explains the different roles within our subteam, w
 
 **When to go to Returning Members:**  
 - Project-specific questions.  
+- Codi
 - Debugging or troubleshooting help.  
 - Looking for tips, advice, or learning resources.  
 - Day-to-day project updates or clarification.  

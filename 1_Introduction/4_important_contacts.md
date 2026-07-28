@@ -1,19 +1,21 @@
 # People and How to Reach Them
 
-## 👩‍💻 Lead
-**Maya Echtinaw**
+## CV Lead
+**Lindsay Huynh**\
+![alt photo]()\
+Email: [lhuy@umich.edu](mailto:mayaecht@umich.edu)
 
-Email: [mayaecht@umich.edu](mailto:mayaecht@umich.edu)
+GitHub: [PhoenixPotoo](https://github.com/PhoenixPotoo)
 
-GitHub: [mayaechtinaw](https://github.com/mayaecht)
+Discord: potoofish
 
-Discord: mecht04
+## CV Assistant Lead
+**Max Maley**
 
-## 🧑‍🏫 Assistant Lead
-**Pranav Mallela**
+<!-- ![](IMG_5853.jpg) -->
+<img src = IMG_5853.jpg width = 300>\
+Email: [maxmaley@umich.edu](mailto:pmallela@umich.edu)
 
-Email: [pmallela@umich.edu](mailto:pmallela@umich.edu)
+GitHub: [m-a-x-m-a-l-e-y](https://github.com/m-a-x-m-a-l-e-y)
 
-GitHub: [pranav-mallela](https://github.com/pranav-mallela)
-
-Discord: pranav_mallela
+Discord: slingshot_1
