@@ -1,4 +1,4 @@
-## 🐍 Step 1: Python
+## Step 1: Python
 
 Python is the main language we use to write computer vision code for UMARV. You'll use it to:
 
@@ -11,7 +11,9 @@ This is only the setup guide for Python. The basics of Python programming will b
 
 ---
 
-### 📥 Install Python
+### Install Python
+
+To work on most CV projects the team uses python, so if you don't have it installed, install it before you move on to section 
 
 1. Go to this link to download Python 3.11.7:  
    [Download Python 3.11.7](https://www.python.org/downloads/release/python-3117/)
@@ -25,7 +27,7 @@ This is only the setup guide for Python. The basics of Python programming will b
 
 ---
 
-### 🧪 Try it out
+###  Try it out
 
 After installing, open a terminal (or Command Prompt) and run:
 

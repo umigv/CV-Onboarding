@@ -1,4 +1,4 @@
-## 🌱 Step 2: Learn Git & GitHub
+## Step 2: Learn Git & GitHub
 
 Git and GitHub let us **collaborate on code**, track changes, and work on the same projects without conflicts.
 
@@ -92,3 +92,20 @@ git status
 
 # View brief commit history
 git log --oneline
+
+```
+
+## Git Practice ( Complete before moving to next section)
+
+
+1. Make a repository on github
+2. Clone repository 
+3. Make changes to the main branch (add python file and make it print something)
+4. Create a branch off of main  
+5. change what the python file prints
+6. commit changes
+7. push changes to repo
+8. create a PR to merge this new branch into main
+9. Approve the merge and address merge conflicts
+10. Send a screenshot of _____ to ..... UNFINISHED
+
