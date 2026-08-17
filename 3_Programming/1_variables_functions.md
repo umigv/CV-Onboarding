@@ -1,10 +1,10 @@
-# 🧮 Python Basics: Variables, Loops, and Functions
+# For new programmers :  Python Basics: Variables, Loops, and Functions
 
 Understanding Python's core building blocks will help you write clear and modular CV code. This guide walks through **variables**, **loops**, and **functions** — the foundation of most programs.
 
 ---
 
-## 🟨 Variables
+## Variables 
 
 Variables store data that your program can use and modify. Their 'data type' determines what kind of data they hold. For example:
 
@@ -17,20 +17,22 @@ is_autonomous = True # boolean type
 print(type(name))  # <class 'str'>
 print(type(speed))  # <class 'int'>
 print(type(is_autonomous))  # <class 'bool'>
+
+# Anything that starts with '#' in Python in a comment, doesn't do anything for the code logic
 ```
 
-## 🧱 Indentation
+## Indentation
 Python uses indentation (spaces or tabs at the start of a line) to define blocks of code. Unlike other languages that use braces `{}` or keywords like `end`, Python relies purely on indentation to determine structure.
 
 If indentation is inconsistent, Python will throw an `IndentationError`.
 
-🚫 Incorrect:
+❌ Incorrect Indentation:
 ```python
 def greet(name):
 print("Hello", name)  # ❌ Error: no indentation
 ```
 
-✅ Correct:
+✅ Correct Indentation:
 ```python
 def greet(name):
     print("Hello", name)  # ✅ Indented properly
@@ -82,17 +84,17 @@ for i in range(5):
     print(i)  # skips 3
 ```
 
-## 🧩 Functions
+## Functions
 Functions let you group code into reusable blocks.
 
-### 🧱 Basic Function
+### Basic Function
 ```python
 def greet(name):
     print("Hello,", name)
 
 greet("UMARV")
 ```
-### 🧮 Return Values
+### Return Values
 Functions can return results:
 
 ```python
@@ -102,7 +104,8 @@ def add(a, b):
 sum = add(3, 5)
 print("Sum:", sum)
 ```
-### 🧰 Parameters and Defaults
+### Parameters and Defaults
+
 You can provide default values for parameters:
 
 ```python
@@ -113,7 +116,7 @@ drive()
 drive(60)
 ```
 
-### 🔌 Real Example: Cone Detection
+### Real Example: Cone Detection
 In a CV context, you might want to detect specific objects like cones. Here's how you could structure that with a function:
 
 ```python
@@ -125,3 +128,4 @@ def detect_cones(objects):
 scene = ["sign", "cone", "barrel"]
 detect_cones(scene)
 ```
+

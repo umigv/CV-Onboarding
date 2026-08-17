@@ -10,7 +10,7 @@ You’ll use VS Code to:
 
 ---
 
-### 📥 Install VS Code
+### Install VS Code
 
 1. Download VS Code:  [Link to download](https://code.visualstudio.com/download)
 
@@ -18,7 +18,20 @@ You’ll use VS Code to:
 
 ---
 
-### 🧩 Must-Have Extensions
+### ⚙️ First-Time Setup
+
+1. **Try following this short introduction video**:  
+   [VS Code Intro (7 mins)](https://www.youtube.com/watch?v=B-s71n0dHUk)
+
+2. VS Code should be able to see your Python installation automatically. If not, Pranav can help you set it up.
+---
+### Good Settings
+You can customize VS Code to make it more efficient:
+- **Auto Save**: Go to Settings (`Ctrl + ,` or `Cmd + ,`) and search for "Auto Save". Set it to `afterDelay` to save changes automatically.
+- **Word Wrap**: Enable word wrap to avoid horizontal scrolling. Go to Settings and search for "Word Wrap", then set it to `on`.
+- **Theme**: Change the color theme by going to `File > Preferences > Color Theme` and selecting one you like.
+
+### Must-Have Extensions
 
 Open VS Code and install the following extensions:
 
@@ -31,26 +44,14 @@ To install extensions:
 
 ---
 
-### ⚙️ First-Time Setup
-
-1. **Try following this short introduction video**:  
-   [VS Code Intro (7 mins)](https://www.youtube.com/watch?v=B-s71n0dHUk)
-
-2. VS Code should be able to see your Python installation automatically. If not, Pranav can help you set it up.
----
-### Power User Settings
-You can customize VS Code to make it more efficient:
-- **Auto Save**: Go to Settings (`Ctrl + ,` or `Cmd + ,`) and search for "Auto Save". Set it to `afterDelay` to save changes automatically.
-- **Word Wrap**: Enable word wrap to avoid horizontal scrolling. Go to Settings and search for "Word Wrap", then set it to `on`.
-- **Theme**: Change the color theme by going to `File > Preferences > Color Theme` and selecting one you like.
-
-### ⚡ Power User Shortcuts
+### ⚡ VSCode User Shortcuts
 
 Here are some useful keyboard shortcuts to speed up your workflow:
 
 | Action                        | Windows Shortcut            | macOS Shortcut            |
 |-------------------------------|-----------------------------|---------------------------|
 | 💻 **Open Terminal**          | `Ctrl + backtick`                 | `Cmd + backtick`                |
+| 💻 **Open New Terminal**          | `Ctrl + shift +  backtick`                 | `Cmd + shift + backtick`                |
 | ⬆️ **Previous Command in Terminal** | `Up Arrow`           | `Up Arrow`                |
 | ⬇️ **Next Command in Terminal**     | `Down Arrow`         | `Down Arrow`              |
 | 🧹 **Clear Terminal**         | `Ctrl + L`                  | `Cmd + K`                 |
@@ -61,3 +62,10 @@ Here are some useful keyboard shortcuts to speed up your workflow:
 | 🔍 **Go to Definition**       | `Ctrl + Click`              | `Cmd + Click`             |
 | 🆕 **New Window**             | `Ctrl + Shift + N`          | `Cmd + Shift + N`         |
 | 📂 **Reveal in Explorer**     | `Shift + Alt + R`           | `Shift + Option + R`      |
+
+
+
+## Recommendations :
+- Auto-save on 
+- Download recommended extensions
+- ...

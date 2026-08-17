@@ -5,7 +5,7 @@ At UMARV, we use two main platforms:
 
 ---
 
-## 📂 Dropbox
+## 📂 Dropbox --- add link to our dropbox
 
 ![alt text](image-1.png)
 
@@ -16,7 +16,7 @@ Examples:
 - **Simulation outputs** or logs
 
 👉 **Action:**  
-Make sure you request **access to the UMARV Dropbox** from Maya or Pranav.  
+Make sure you request **access to the UMARV Dropbox** from Lindsay or Max.  
 This is where you’ll upload or download any big files needed for experiments.
 
 ---
