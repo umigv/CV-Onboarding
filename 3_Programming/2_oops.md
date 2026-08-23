@@ -9,10 +9,10 @@ It's widely used in computer vision (CV) to model real-world entities like camer
 
 When building software for an **autonomous robotic vehicle (ARV)**, OOP helps you:
 
-- 🚗 **Model real-world components** like cameras, sensors, motors, and controllers as software objects  
-- 🧱 **Create reusable blueprints** (classes) for parts of the vehicle (e.g., a `Lidar` class or a `NavigationSystem`)  
-- 🧼 **Organize complex logic** into clean, modular code — making it easier to debug, test, and extend  
-- 📦 **Store global variables in objects** instead of passing them around everywhere.  
+-  **Model real-world components** like cameras, sensors, motors, and controllers as software objects  
+-  **Create reusable blueprints** (classes) for parts of the vehicle (e.g., a `Lidar` class or a `NavigationSystem`)  
+-  **Organize complex logic** into clean, modular code — making it easier to debug, test, and extend  
+-  **Store global variables in objects** instead of passing them around everywhere.  
   For example, you don’t need to pass `frame` or `occupancy_grid` into every function — you can store them in `self.frame` and `self.occ_grid` inside a class.  
 
 ---
