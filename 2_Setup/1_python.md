@@ -15,8 +15,8 @@ This is only the setup guide for Python. The basics of Python programming will b
 
 To work on most CV projects the team uses python, so if you don't have it installed, install it before you move on to section 
 
-1. Go to this link to download Python 3.11.7:  
-   [Download Python 3.11.7](https://www.python.org/downloads/release/python-3117/)
+1. Go to this link to download Python 3.13.7:  
+   [Download Python 3.13.7](https://www.python.org/downloads/release/python-3137/)
 2. Choose the installer for your operating system:  
    - **Windows**: Download the **Windows installer (64-bit)**
     - **macOS**: Download the **macOS 64-bit universal2 installer**
