@@ -2,7 +2,7 @@
 Congrats on making it to the **fourth checkpoint**!
 
 * This checkpoint is a google colab notebook with a CV task.
-* You will need to get close enough output to Pranav's solution to pass this checkpoint.
+* You will need to get close enough output to our general solution to pass this checkpoint.
 * You can use all the resources in this section and go online as well if required.
 
 **Important**: Make a copy of the notebook to your own Google Drive before starting to edit it. You can do this by going to `File -> Save a copy in Drive`. The changes you make in the original notebook will not be saved.
