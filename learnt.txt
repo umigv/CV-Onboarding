@@ -1,0 +1,17 @@
+Global variables 
+- Function variables refer to variables at the python module level instead of local
+- Done within functions
+- Local variables are local. Not instance attributes
+- Helps seperate instance attributes, local variables, module-level variables
+Class Objects
+- Functions need self objects to refer to that object's variable information
+- Self == this-> in c++
+if __name__ == "__main__": 
+- simulates main
+- checks if it is being directly executed rather than imported
+input()	
+- Always returns a string, even when the user types a number
+Reference method:
+    game.won     # Does not execute it
+Executes the method:
+    game.won()   # Returns its result
